@@ -1,7 +1,9 @@
 ### Olá sou Pedro Marques👋
 
-- 🔭 Estou trabalhando com backend NodeJS
-- 🌱 Estudando Front-end e UX
+- 🔭 Estou trabalhando com back-end NodeJS
+- 🧡 Javascript e Python
+- 🌱 Estudando front-end e UX
+
 
 
 <div style="margin-top:20"> 
