@@ -1,8 +1,10 @@
 ### Olá sou Pedro Marques👋
 
-- 🔭 Estou trabalhando com back-end NodeJS
-- 🧡 Javascript e Python
-- 🌱 Estudando front-end e UX
+- 🧡 Me considero um desenvolvedor Fullstack
+- 🧡 Mando bem em Javascript/Typescript e Python
+- 🧡 Curto usar React ou Vue e NestJS nos meus projetos.
+- 🧡 Tiro idéias do papel com UX Design
+- 🧡 Facilito processos e rotinas com RPA (Robotic Process Automation)
 
 
 
