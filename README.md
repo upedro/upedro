@@ -1,8 +1,8 @@
 ### Olá sou Pedro Marques👋
 
-- 🧡 Me considero um desenvolvedor Fullstack
+- 🧡 Desenvolvedor Fullstack
 - 🧡 Mando bem em Javascript/Typescript e Python
-- 🧡 Curto usar React ou Vue e NestJS nos meus projetos.
+- 🧡 Curto usar React, Nextjs e NestJS nos meus projetos.
 - 🧡 Tiro idéias do papel com UX Design
 - 🧡 Facilito processos e rotinas com RPA (Robotic Process Automation)
 
