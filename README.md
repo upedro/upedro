@@ -1,20 +1,9 @@
 # Pedro Marques
 
-**CTO & Co-founder @ [Autodev Tecnologia](https://github.com/autodevx)**
+Founder @ [Autodev](https://www.autodev.com.br) · Builder
 
-Construo infraestrutura de IA para operações jurídicas no Brasil.
+Transformo operações complexas em produtos digitais — arquitetura, automação, IA e produto, do problema ao deploy.
 
-### Foco atual
+`Python` `Node.js` `NestJS` `Neo4j` `MongoDB` `React` `LLMs` `RPA`
 
-- [legal-skills](https://github.com/autodevx/legal-skills) — Skills de IA para jurídico corporativo brasileiro (open source)
-- Pipelines de dados jurídicos integrados ao ecossistema CNJ, PJe, eSAJ e DataJud
-- Automação de Legal Ops com LLMs e grafos de conhecimento
-
-### Stack
-
-`Python` `FastAPI` `Neo4j` `NestJS` `MongoDB` `PostgreSQL` `LLMs`
-
-### Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohmo)
-[![Autodev](https://img.shields.io/badge/Autodev-autodev.com.br-blue)](https://www.autodev.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/pedrohmo)
